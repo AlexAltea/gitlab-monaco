@@ -2,6 +2,8 @@
 
 Dynamic syntax highlighting for custom languages in GitLab CE/EE installations via Monaco hot-patching.
 
+**Simply a proof-of-concept project. Not affiliated with GitLab in any way. Execute at your own risk.**
+
 ## Usage
 
 Install [Node](https://nodejs.org/), then run the following commands:
